@@ -1,0 +1,65 @@
+  body {
+    background-color: 363377;
+    color: AA8F39;
+  }
+
+  p, ul {
+    font-family: sans-serif;
+  }
+
+  .clearfix {
+  overflow: auto;
+}
+
+  .planet {
+    background-color: 2A4E6E;
+    position: relative;
+    margin: 40px 0;
+}
+
+  .header {
+    background-color: 4D2D73;
+    font-size: 26px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+
+  }
+
+  img {
+    max-width: 250px;
+    height: 200px;
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 20px;
+  }
+
+  .picture-source {
+    float: right;
+    text-align: center;
+    max-width: 250px;
+    margin: 50px 0 0 0;
+  }
+
+    a:link {
+      color: AA8F39;
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: AA7B39;
+    }
+
+    a:hover {
+      color: AA8F39;
+      text-decoration: underline;
+      cursor: pointer;
+      font-weight: bold;
+
+    }
+
+    a:active {
+      color: 363377;
+
+    }
